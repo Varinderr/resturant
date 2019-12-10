@@ -1,0 +1,2 @@
+to open admin panel you need to write localhost/resturant/admin
+and the user name of admin section is varinder and the pass key is varinder123
